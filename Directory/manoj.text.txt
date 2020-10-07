@@ -1,3 +1,0 @@
-Hi Manoj Kumar Gupta this is your first git repository.
-Hello Ji...
-hi commit1..
